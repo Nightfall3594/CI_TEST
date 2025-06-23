@@ -5,3 +5,6 @@ def test_add():
 
 def test_multiply():
     assert multiply(9,9) == 81.0
+
+def test_2():
+    assert multiply(9,9) == 81.81
